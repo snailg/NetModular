@@ -170,7 +170,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebHost", "src\Admin\WebHos
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{8B67276F-CD56-474B-85F8-0757C1206D0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host.Generic.Test", "test\Host.Generic.Test\Host.Generic.Test.csproj", "{7894109E-C2B9-47E9-8A9B-F7C3866FAAD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Host.Generic.Test", "test\Host.Generic.Test\Host.Generic.Test.csproj", "{7894109E-C2B9-47E9-8A9B-F7C3866FAAD2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
