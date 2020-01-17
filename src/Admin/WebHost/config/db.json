@@ -29,7 +29,7 @@
       //自定义连接信息
       "ConnectionString": "",
       //自定义版本号
-      "Version": ""
+      "Version": "1.0"
     }
   ]
 }
