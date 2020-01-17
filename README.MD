@@ -1,11 +1,3 @@
-<h1 align="center">
-  <img src="https://github.com/iamoldli/NetModular.Docs/blob/master/src/.vuepress/public/images/logo.png" alt="NetModular" width="175"/>
-<br>
-NetModular
-</h1>
-
-NetModular is a modular quickly develop solution for .Net Core 2.2+.
-
 ## Develop Environment(开发环境)
 
 > IDE
